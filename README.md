@@ -1,7 +1,6 @@
 # 8086 Assembly Sorting Algorithms Visualizer (EMU8086)
 
-An interactive **Sorting Algorithms Visualizer** implemented using **8086 Assembly Language** for **EMU8086**.  
-The user can choose between three classic sorting algorithms from a menu and watch the sorting process **step by step**.
+This project is an interactive non-recursive sorting algorithms visualizer where the user enters the array elements, selects a sorting algorithm, and the program displays each step of the sorting process until the final sorted array is obtained..
 
 ---
 
